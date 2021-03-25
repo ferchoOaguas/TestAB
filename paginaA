@@ -1,0 +1,12 @@
+<HEAD>
+<TITLE>
+Pagina A
+</TITLE>
+</HEAD>
+<BODY>
+<h1>
+En esta página puedes ver mis trabajos
+<h1/>
+<!-- SnapWidget -->
+<iframe src="https://snapwidget.com/embed/924765" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:495px; height:495px"></iframe>
+</BODY>
