@@ -1,0 +1,16 @@
+<HEAD>
+<TITLE>
+Pagina A
+</TITLE>
+</HEAD>
+<BODY>
+<h1>
+En esta página puedes ver mis trabajos
+<h1/>
+<!-- SnapWidget -->
+<div class="snapwidget-banner" data-widget-id="924769"></div>
+<script>!function(s,n,ap){if(!s.getElementById(ap)){var a=s.createElement("script");a.id=ap,a.src="https://snapwidget.com/js/snapwidget-banner.js",s.getElementsByTagName("head")[0].appendChild(a)}}(document,0,"snapbnr");</script>
+
+<img src="https://cdn.pixabay.com/photo/2017/11/09/22/39/entrepreneur-2934861_960_720.jpg" width="500" height="600">
+
+</BODY>
